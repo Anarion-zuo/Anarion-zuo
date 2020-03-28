@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d5a4eec-d387-4cb9-a597-5c1bfc93d0fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zk1HN5npc88nORE4YlE6eQA1L9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/static/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d5a4eec-d387-4cb9-a597-5c1bfc93d0fe" name="Default Changelist" comment="" />
+      <created>1585368188808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585368188808</updated>
+      <workItem from="1585368190370" duration="11648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1377" height="300" key="GridCell.Tab.0.bottom" timestamp="1585374120360">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120360" />
+    <state width="1377" height="300" key="GridCell.Tab.0.center" timestamp="1585374120357">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120357" />
+    <state width="1377" height="300" key="GridCell.Tab.0.left" timestamp="1585374120355">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120355" />
+    <state width="1377" height="300" key="GridCell.Tab.0.right" timestamp="1585374120359">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120359" />
+    <state width="1377" height="300" key="GridCell.Tab.1.bottom" timestamp="1585374120365">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120365" />
+    <state width="1377" height="300" key="GridCell.Tab.1.center" timestamp="1585374120362">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120362" />
+    <state width="1377" height="300" key="GridCell.Tab.1.left" timestamp="1585374120361">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120361" />
+    <state width="1377" height="300" key="GridCell.Tab.1.right" timestamp="1585374120364">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120364" />
+    <state width="1377" height="300" key="GridCell.Tab.2.bottom" timestamp="1585374120370">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120370" />
+    <state width="1377" height="300" key="GridCell.Tab.2.center" timestamp="1585374120368">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120368" />
+    <state width="1377" height="300" key="GridCell.Tab.2.left" timestamp="1585374120366">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120366" />
+    <state width="1377" height="300" key="GridCell.Tab.2.right" timestamp="1585374120369">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120369" />
+    <state width="1377" height="300" key="GridCell.Tab.3.bottom" timestamp="1585374120375">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120375" />
+    <state width="1377" height="300" key="GridCell.Tab.3.center" timestamp="1585374120373">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120373" />
+    <state width="1377" height="300" key="GridCell.Tab.3.left" timestamp="1585374120371">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120371" />
+    <state width="1377" height="300" key="GridCell.Tab.3.right" timestamp="1585374120374">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1377" height="300" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585374120374" />
+    <state x="1108" y="341" width="672" height="678" key="search.everywhere.popup" timestamp="1585368349658">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1108" y="341" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585368349658" />
+  </component>
+</project>
