@@ -5,13 +5,14 @@
     <title>Welcome to Anarion's Website</title>
 
     <style>
-        @import "/css/header/header.css";
+        @import "/css/header.css";
+        @import "/css/aside.css";
     </style>
 </head>
 <body>
     <header id="header" class="clearfix">
-        <p id="header-title" class="header-section">Anarion</p>
-        <p id="who-am-i" class="header-section">Who Am I?</p>
+        <p id="header-title" class="header-section-left">Anarion</p>
+        <p id="who-am-i" class="header-section-left">Who Am I?</p>
 
         <div id="who-am-i-description">
             <p>I am 左钰 Anarion</p>
@@ -22,19 +23,29 @@
             <p>(this text is non-copyable)</p>
         </div>
 
-        <p class="header-section">This Site on Github</p>
-        <p class="header-section"></p>
+        <p class="header-section-right" ><a target="_blank" href="https://github.com/Anarion-zuo/Anarion-zuo">This Site on Github</a></p>
 <!--        <img class="header-icon" href="/image/icon.png" alt="Feanor's sigill"/>-->
-        <form action="#" method="get" class="header-section">
-            <input type="search" name="header-search">
-            <input type="submit">
+        <form action="#" method="get" class="header-section-right">
+            <input type="search" name="header-search" placeholder="I am not working on searching..." disabled>
+            <button type="submit" disabled>Don't Click</button>
         </form>
     </header>
-    <aside id="navigation">
-        <ul>
-            <li></li>
-        </ul>
-    </aside>
+    <main>
+        <aside id="aside">
+            <h1 class="aside-title">Choose an App</h1>
+            <div class="aside-list">
+<!--                <ul>-->
+<!--                    <li>haha</li>-->
+<!--                    <li>hoho</li>-->
+<!--                </ul>-->
+            </div>
+
+        </aside>
+        <div id="index-page">
+
+        </div>
+    </main>
+
 </body>
 <script language="javascript" src="/js/header.js"></script>
 </html>

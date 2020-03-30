@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Anarion's Website</title>
+
+    <style type="text/css">
+        @import "/css/header.css";
+        @import "/css/aside.css";
+        @import "/css/netdisk.css";
+    </style>
+</head>
+<body>
+<header id="header" class="clearfix">
+    <p id="header-title" class="header-section-left">Anarion</p>
+    <p id="who-am-i" class="header-section-left">Who Am I?</p>
+
+    <div id="who-am-i-description">
+        <p>I am 左钰 Anarion</p>
+        <p>named after the father of the 2nd of king of Gondor.</p>
+        <p>Github: <a href="https://github.com/Anarion-zuo" target="_blank">github.com/Anarion-zuo</a></p>
+        <p>Gmail: untrac10100@gmail.com</p>
+        <p>Welcome...</p>
+        <p>(this text is non-copyable)</p>
+    </div>
+
+    <p class="header-section-right" ><a target="_blank" href="https://github.com/Anarion-zuo/Anarion-zuo">This Site on Github</a></p>
+    <!--        <img class="header-icon" href="/image/icon.png" alt="Feanor's sigill"/>-->
+    <form action="#" method="get" class="header-section-right">
+        <input type="search" name="header-search" placeholder="I am not working on searching..." disabled>
+        <button type="submit" disabled>Don't Click</button>
+    </form>
+</header>
+<main>
+    <aside id="aside">
+        <h1 class="aside-title">Choose an App</h1>
+        <div id="netdisk-operations">
+            <div id="refresh-list">Refresh</div>
+            <div id="upload">Upload</div>
+            <div id="download">Download</div>
+            <div id="delete">Delete</div>
+        </div>
+        <div id="upload-panel">
+            <form action="/netdisk/upload" method="post" enctype="multipart/form-data" target="norefresh-helper">
+                <input id="uploading-file" type="file" name="file">
+                <button id="upload-virtual-button">Choose File</button>
+                <input type="text" name="dir" id="upload-current-dir">
+                <input id="actual-submit" type="submit" value="upload">
+                <button id="upload-button">upload</button>
+            </form>
+            <iframe name="norefresh-helper" hidden></iframe>
+            <span>Please choose a file</span>
+            <progress value="0" max="100"></progress>
+        </div>
+
+    </aside>
+    <div id="index-page">
+        <table id="file-table">
+            <thead id="file-table-header">
+                <tr>
+                    <th>name</th>
+                    <th>size</th>
+                    <div class="resize-line"></div>
+                    <th>date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>hahaahahahahahhahaahhahaa</td>
+                    <td>13G</td>
+                    <td>yesterday</td>
+                </tr>
+            </tbody>
+
+        </table>
+    </div>
+
+</main>
+
+</body>
+<script language="javascript" src="/js/header.js"></script>
+<script language="javascript" src="/js/netdisk.js"></script>
+</html>

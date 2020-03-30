@@ -1,3 +1,5 @@
+package com.anarion.controller;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.bind.annotation.PathVariable;

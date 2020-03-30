@@ -1,0 +1,23 @@
+#aside {
+    box-shadow: 0 0 10px;
+    display: inline-block;
+    height: fit-content;
+}
+
+#aside ul, li {
+    list-style: none;
+    padding: 0;
+}
+
+#aside .aside-title {
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 0 0px 1px;
+}
+
+#aside .aside-list {
+    padding: 5px 20px;
+
+}

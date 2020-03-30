@@ -1,0 +1,105 @@
+main {
+    justify-content: flex-start;
+}
+
+#aside {
+    margin-left: 50px;
+    position: relative;
+}
+
+#netdisk-operations {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#netdisk-operations div {
+    font-size: 16px;
+    padding: 10px 0;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+}
+
+#index-page {
+    display: flex;
+    flex-direction: column;
+}
+
+/*upload file*/
+#upload-panel {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+
+    left: 220px;
+    top: 50px;
+
+    box-shadow: 0 0 10px;
+    background-color: white;
+
+    display: none;
+}
+
+#upload-panel form input {
+    /*display: none;*/
+}
+
+#upload-panel form button {
+    display: inline-block;
+    background-color: transparent;
+    color: darkgrey;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+/*
+    Here begins table configurations
+ */
+#file-table {
+    border-collapse: collapse;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+
+    margin-left: 50px;
+}
+
+/*Global config*/
+#file-table tr th,td {
+    text-align: left;
+    font-weight: normal;
+    font-size: 16px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    border-right: 1px solid darkgrey;
+}
+
+/*border*/
+#file-table tr th:last-child,td:last-child {
+    border-right: transparent;
+}
+#file-table tbody tr:last-child {
+    border-bottom: transparent;
+}
+
+#file-table tr th,td {
+    padding: 10px 15px;
+}
+
+#file-table tr {
+    cursor: pointer;
+    border-bottom: 1px solid darkgrey;
+}
+
+#file-table-header tr th {
+    border-right: 1px solid darkgrey;
+}
+
+#file-table-header tr th:last-child {
+    border-right: 0;
+}
+
