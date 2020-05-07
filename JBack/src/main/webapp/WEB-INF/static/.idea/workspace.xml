@@ -2,50 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d5a4eec-d387-4cb9-a597-5c1bfc93d0fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/com/anarion/controller/NetDiskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/com/anarion/service/blog/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/com/anarion/service/netdisk/NetDirInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/com/anarion/service/netdisk/NetDirectory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/com/anarion/service/netdisk/NetEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../java/com/anarion/service/netdisk/NetFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../resources/spring-service-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/aside.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/netdisk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/netdisk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/netdisk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/anarion/controller/DirInfoMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/anarion/controller/NetDiskController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../.idea/artifacts/unnamed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/JBack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../JBack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../JBack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/classes/ImgController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/springmvc-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/springmvc-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/css/header/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/js/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../out/artifacts/unnamed/WEB-INF/static/js/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java/ImgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/com/anarion/controller/ImgController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springmvc-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../target/classes/ImgController.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="static" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +31,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -116,11 +81,12 @@
       <workItem from="1585406840409" duration="3121000" />
       <workItem from="1585453723798" duration="24316000" />
       <workItem from="1585484234781" duration="35564000" />
+      <workItem from="1587991902809" duration="265000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
